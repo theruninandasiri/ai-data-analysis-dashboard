@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+anthropic   # optional: only for the LLM summary

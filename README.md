@@ -35,3 +35,8 @@ Push to GitHub -> share.streamlit.io -> New app -> `app.py`. Add `ANTHROPIC_API_
 ![AI Insights](Screenshots/4.png)
 ![Analytics](Screenshots/5.png)
 ![Report](Screenshots/6.png)
+
+# AI Data Analysis Dashboard
+
+🔗 **Live App:** [Open the app](https://ai-data-analysis-dashboard-nzsggrqybgzpbdquayfuid.streamlit.app/)
+💻 **GitHub:** [theruninandasiri/ai-data-analysis-dashboard](https://github.com/theruninandasiri/ai-data-analysis-dashboard)
